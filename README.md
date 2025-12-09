@@ -34,7 +34,5 @@ About Me
   </a>
 </p>
 <p>
-    <a>
     Oracle Cloud Infrastructure 2025 Certified Associate
-    </a>
 </p>
