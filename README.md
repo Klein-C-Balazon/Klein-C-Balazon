@@ -31,8 +31,7 @@ About Me
   <a href="https://courses.cognitiveclass.ai/certificates/8ff0d706832c418fbfe27dc97501c8cf#" 
      target="_blank"> 
           SQL and Relational Databases 101
+          Oracle Cloud Infrastructure 2025 Certified Associate
   </a>
 </p>
-<p>
-    Oracle Cloud Infrastructure 2025 Certified Associate
-</p>
+
