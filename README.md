@@ -32,7 +32,7 @@ About Me
      target="_blank"> 
           SQL and Relational Databases 101</li>
      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E3C7C61C766472155F124C598A9ECA3E1C8978CE4BE9AA17F8EF60163944B8BF"
-         target="_blank> 
+         target="_blank"> 
           <li>Oracle Cloud Infrastructure 2025 Certified Associate</li>
   </a>
 </p>
