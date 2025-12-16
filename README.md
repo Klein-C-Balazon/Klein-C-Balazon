@@ -1,4 +1,3 @@
-# Klein-C.-Balazon
 About Me
 
 <h1>Hello! I'm Klein C. Balazon</h1>
@@ -34,6 +33,8 @@ About Me
     <li> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E3C7C61C766472155F124C598A9ECA3E1C8978CE4BE9AA17F8EF60163944B8BF"
          target="_blank"> 
           Oracle Cloud Infrastructure 2025 Certified Associate</li>
+         <li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5141089E208CFCB0EED684DB55BB1A176349F71962065996B6862DED85C1DC43"> 
+          Oracle Data Platform 2025 Certified Foundations Associate</li>
   </a>
 </p>
 
