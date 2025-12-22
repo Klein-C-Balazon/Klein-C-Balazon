@@ -35,6 +35,8 @@ About Me
           Oracle Cloud Infrastructure 2025 Certified Associate</li>
          <li> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5141089E208CFCB0EED684DB55BB1A176349F71962065996B6862DED85C1DC43"> 
           Oracle Data Platform 2025 Certified Foundations Associate</li>
+             <li> <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FEBBF61FE5EF5F0882E1F3DA0221EB6E581D4F0D5EE342EF4C2FD4993D68324F"> 
+                        Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</li>
   </a>
 </p>
 
