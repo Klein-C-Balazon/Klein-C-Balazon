@@ -46,12 +46,12 @@ I enjoy learning new technologies, improving my coding skills, and exploring the
 
 <ul>
     <li>
-        <a href="https://courses.cognitiveclass.ai/certificates/44bcd53a3b1349e5a4812bd9295c5971">
+        <a href="https://courses.cognitiveclass.ai/certificates/8ff0d706832c418fbfe27dc97501c8cf#">
             SQL and Relational Databases 101
         </a>
     </li>
     <li>
-        <a href="https://courses.cognitiveclass.ai/">
+        <a href="https://courses.cognitiveclass.ai/certificates/44bcd53a3b1349e5a4812bd9295c5971">
             NoSQL and DBaaS 101
         </a>
     </li>
