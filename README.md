@@ -75,7 +75,7 @@ I enjoy learning new technologies, improving my coding skills, and exploring the
 <h2>📫 Connect With Me</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/balazon-klein-50862a409/?skipRedirect=true" target="_blank">
+<a href="linkedin.com/in/balazon-klein-50862a409">
 LinkedIn Profile
 </a>
 </p>
