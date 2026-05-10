@@ -42,15 +42,6 @@ I enjoy learning new technologies, improving my coding skills, and exploring the
 
 <hr>
 
-<h2>📜 Certifications</h2>
-
-<ul>
-    <li>
-        <a href="https://courses.cognitiveclass.ai/certificates/44bcd53a3b1349e5a4812bd9295c5971">
-        SQL and Relational Databases 101
-        </a>
-    </li>
-
   <h2>📜 Certifications</h2>
 
 <ul>
