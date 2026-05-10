@@ -51,29 +51,35 @@ I enjoy learning new technologies, improving my coding skills, and exploring the
         </a>
     </li>
 
+  <h2>📜 Certifications</h2>
+
+<ul>
     <li>
-        <a href="https://courses.cognitiveclass.ai/" target="_blank">
-        NoSQL and DBaaS 101
+        <a href="https://courses.cognitiveclass.ai/certificates/44bcd53a3b1349e5a4812bd9295c5971">
+            SQL and Relational Databases 101
         </a>
     </li>
-
+    <li>
+        <a href="https://courses.cognitiveclass.ai/">
+            NoSQL and DBaaS 101
+        </a>
+    </li>
     <li>
         <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E3C7C61C766472155F124C598A9ECA3E1C8978CE4BE9AA17F8EF60163944B8BF">
-        Oracle Cloud Infrastructure 2025 Certified Associate
+            Oracle Cloud Infrastructure 2025 Certified Associate
         </a>
     </li>
-
     <li>
         <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5141089E208CFCB0EED684DB55BB1A176349F71962065996B6862DED85C1DC43">
-        Oracle Data Platform 2025 Certified Foundations Associate
+            Oracle Data Platform 2025 Certified Foundations Associate
         </a>
     </li>
-
     <li>
         <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FEBBF61FE5EF5F0882E1F3DA0221EB6E581D4F0D5EE342EF4C2FD4993D68324F">
-        Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+            Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
         </a>
     </li>
+</ul>
 
 <h2>📫 Connect With Me</h2>
 
